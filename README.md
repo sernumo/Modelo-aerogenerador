@@ -47,6 +47,8 @@ Aquí se muestran los archivos obtenidos para visualizar datos
 Como tuvimos más de un estado del que requeriamos las mismas visualizaciones se opto despues por hacer un código que solo pidiera estado, nombre del archivo de origen y generará las graficas y archivos solo así como guardarlo en la carpeta donde estaban ese código final es 
 
 [Visualización con parametros](https://github.com/sernumo/Modelo-aerogenerador/blob/master/CodigoR_parametrizado.R)
-
+## Estimacion de energía generada con datos medidos y Curva de referencia
+[Oaxaca]()
+[Tamaulipas]()
 ### Reporte final (Python)
 Este reporte aun esta pendiente y esperamos terminarlo el 1/05/2020
