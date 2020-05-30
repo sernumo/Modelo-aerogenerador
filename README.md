@@ -48,8 +48,11 @@ Como tuvimos más de un estado del que requeriamos las mismas visualizaciones se
 
 [Visualización con parametros](https://github.com/sernumo/Modelo-aerogenerador/blob/master/CodigoR_parametrizado.R)
 ## Estimacion de energía generada con datos medidos y Curva de referencia
+
 [Curva de referencia](https://en.wind-turbine-models.com/turbines/16-vestas-v90)
+
 [Oaxaca](https://github.com/sernumo/Modelo-aerogenerador/blob/master/Available_energy_Oaxaca.R)
+
 [Tamaulipas](https://github.com/sernumo/Modelo-aerogenerador/blob/master/Available_energy_Tamaulipas.R)
 ### Reporte final (Python)
 Este reporte aun esta pendiente y esperamos terminarlo el 1/05/2020
