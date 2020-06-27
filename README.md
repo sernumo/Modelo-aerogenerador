@@ -3,14 +3,14 @@ Este proyecto pretende identificar posibles zonas con potencial eólico en Méxi
 ![Energias eolicas](https://media.giphy.com/media/Ynx3TPEReTklFeaoYB/giphy.gif)
 
 ## ¿Cuál es la necesidad o problema a resolver? 🚀
-
+Analisis de datos diesminutales de velocidad de viento medidos y extraidos de la web.
 
 ## ¿Cuál es la propuesta para resolver esa necesidad o problema? 💡
-
+Serie de algoritmos que limpien, normalicen, organicen y grafiquen  los datos  disponibles, de tal forma que al ser visualizados  estos nos muestren el comportamiento del recurso eólico en el lugar especifico 
 
 ## ¿Cómo lo vas a hacer? 📋
 
-
+Utilizado las bibliotecas de r y Python de análisis de datos y de web scraping conocidas.
 ## ¿Que avances tenemos? 
 
 Uno de los principales problemas al hacer un análsis de potencial eólico es que los datos requeridos son de paga por lo cual utilizamos:
